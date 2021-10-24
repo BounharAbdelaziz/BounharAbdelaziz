@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-I am a 1st year PhD. student at Télécom Paris. I am supervised by Professor 
-[Michèle Wigger](https://perso.telecom-paristech.fr/wigger/) and Professor [Mireille Sarkiss](https://scholar.google.fr/citations?user=igEaL1QAAAAJ&hl=en). We are working on a reaserch project on Deep Reinforcement Learning on Information-Theoretic Limits of Future Networks.
+I am a 1st year **PhD. student at Télécom Paris**. I am supervised by Professor 
+[Michèle Wigger](https://perso.telecom-paristech.fr/wigger/) and Professor [Mireille Sarkiss](https://scholar.google.fr/citations?user=igEaL1QAAAAJ&hl=en). We are working on a reaserch project on **Deep Reinforcement Learning on Information-Theoretic Limits of Future Networks**.
 
-Durring my free time, I like to work on side projects realted to deep learning.
+Durring my free time, I like to work on side projects related to **deep learning**.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BounharAbdelaziz&theme=dark&show_icons=true)
 
