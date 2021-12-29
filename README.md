@@ -10,9 +10,9 @@ Durring my free time, I like to work on side projects related to **deep learning
 
 🔭 I am curently working on the following project:
 
-![Face-Aging-GAN](https://github-readme-stats.vercel.app/api/pin/?username=BounharAbdelaziz&repo=Face-Aging-GAN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BounharAbdelaziz&repo=Face-Aging-GAN)](https://github.com/BounharAbdelaziz/Face-Aging-GAN)
 
-![Face-Age-Classifier](https://github-readme-stats.vercel.app/api/pin/?username=BounharAbdelaziz&repo=Face-Age-Classifier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BounharAbdelaziz&repo=Face-Age-Classifier)](https://github.com/BounharAbdelaziz/Face-Age-Classifier)
 
 And other private repositories 🤐
 
