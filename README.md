@@ -21,4 +21,8 @@ And other private repositories 🤐
 | Deep Learning to solve the non-linear Schrödinger equation for Telecommunication problem.
 | Battery health prediction using deep learning.
 
+Upcoming projects:
+* Face gender swap
+* Active noise cancelation with deep learning
+
 📫  Reach me via bounhar.abdelaziz@gmail.com or [LinkedIn](https://www.linkedin.com/in/abdelaziz-bounhar-a58910138/)
