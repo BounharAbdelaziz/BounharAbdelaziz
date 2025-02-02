@@ -1,31 +1,27 @@
-### Hi there 👋
+## Hi there! 👋  
 
+I’m a Ph.D. in **Artificial Intelligence and Information Theory**, with a strong background in **Machine Learning** and hands-on experience gained through my Ph.D., internships, open-source contributions, and personal projects.  
 
-I am a 2nd year **PhD. student at Télécom Paris**. I am supervised by Professor 
-[Michèle Wigger](https://perso.telecom-paristech.fr/wigger/) and Professor [Mireille Sarkiss](https://scholar.google.fr/citations?user=igEaL1QAAAAJ&hl=en). We are working on a reaserch project on **Deep Reinforcement Learning on Information-Theoretic Limits of Future Networks**.
+### 🎓 Academic Background  
+I completed my Ph.D. in **December 2024** at **Télécom Paris**, where I worked on **Information Theory and Reinforcement Learning for Mixed Covert and Non-Covert Wireless Networks** under the supervision of [Prof. Michèle Wigger](https://perso.telecom-paristech.fr/wigger/) and [Prof. Mireille Sarkiss](https://scholar.google.fr/citations?user=igEaL1QAAAAJ&hl=en).  
 
-Durring my free time, I like to work on side projects related to **deep learning**.
+### 🔬 Research Interests  
+- **Reinforcement Learning**  
+- **Generative AI** (code, text, audio, images)  
+- **AI Agents & AI Security**  
+- **AI De-biasing & Fairness**  
+- **Applications of AI to Complex Problems**  
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BounharAbdelaziz&theme=dark&show_icons=true)
+### 🛠 Skills  
+- Strong problem-solving ability with a solid mathematical foundation.  
+- Experience in **deep learning**, **optimization**, and **probabilistic modeling**.  
+- Excellent communication, teamwork, and adaptability skills.  
 
-🔭 My works includes:
+### 🌍 Open-Source Contributions  
+In my free time, I actively contribute to open-source projects, especially in Moroccan Darija NLP, with [AtlasIA](https://huggingface.co/atlasia) as part of the **Core Data Team**.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BounharAbdelaziz&repo=Face-Image-Colorization)](https://github.com/BounharAbdelaziz/Face-Image-Colorization)
+### Some of My Weird Projects  
+- 🧠 **[Orthogonalization Neural Networks](https://github.com/BounharAbdelaziz/Orthorgonalization-Neural-Networks)**: A deep learning project exploring vectors orthogonalization in neural networks. It actually (and no so surprising) works. But there are more things to do to force the network to not just do some transformation when the input vectors does not form a basis or are actually already orthogonal (both of these constraints can be added in the objective function).
+- 🔓 **Crypto Cracker Using Neural Networks**: A bit complex to make it work. One must define a good basis so that the neural network can learn. See [SALSA: Attacking Lattice Cryptography with Transformers](https://arxiv.org/abs/2207.04785)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BounharAbdelaziz&repo=Face-Aging-GAN)](https://github.com/BounharAbdelaziz/Face-Aging-GAN)
-
-And other private repositories 🤐
-
-|                                            Repository                              
-|:---------------------------:
-| Semantic communication with deep learning.
-| Deep Learning to solve the non-linear Schrödinger equation for Telecommunication problem.
-| Battery health prediction using deep learning.
-
-Upcoming projects:
-* Orthorgonalization with Neural Networks (done most of the experiments).
-* Satellite Image Semantic Segmentation And Domain Adaptation (as part of the [FLAIR](https://codalab.lisn.upsaclay.fr/competitions/8769#learn_the_details) contest) (on-going).
-* Sattelite Image Super-Resolution.
-* Active noise cancelation with deep learning.
-
-📫  Reach me via bounhar.abdelaziz@gmail.com or [LinkedIn](https://www.linkedin.com/in/abdelaziz-bounhar-a58910138/)
+Let's connect and discuss AI, research, or open-source projects! 🚀
